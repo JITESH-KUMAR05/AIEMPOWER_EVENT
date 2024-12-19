@@ -1,0 +1,16 @@
+{
+  "name": "simple-register-form",
+  "version": "1.0.0",
+  "description": "this is just a simple register form ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jitesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}
